@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Câu chuyện về bình ca Gregorian
