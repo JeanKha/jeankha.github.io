@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Câu chuyện về bình ca Gregorian
-subtitle:
+subtitle: Sơ lược về lịch sử Bình ca Gregorian
 cover-img: https://wallpapercave.com/wp/wp11661289.jpg
 tags: [books, history]
 author: Jean Kha
