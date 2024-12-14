@@ -258,7 +258,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "	Asia/Ho_Chi_Minh"
+timezone: "Asia/Ho_Chi_Minh"
 markdown: kramdown
 highlighter: rouge
 permalink: /:day-:month-:year-:title/
