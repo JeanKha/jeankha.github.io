@@ -22,7 +22,7 @@ Guido biết rằng vì âm nhạc là một ngôn ngữ nên khả năng đọc
 
 ## Điệu thức (Modes)
 
-Trong âm nhạc hiện đại chỉ có hai điệu thức,[^1] trưởng và thứ. Trong điệu thức trưởng, có mười lăm thang âm (scale), mỗi thang âm có một *âm chủ (tonic)* hoặc *âm gốc (key tone)* khác nhau, nhưng về khuôn mẫu thì chúng đều giống nhau, mỗi thang âm bao gồm hai quãng một cung, một quãng nửa cung, ba quãng một cung và một quãng nửa cung. Các quãng nửa cung luôn xảy ra giữa *Mi-Fa*, và *Si-Do*.
+Trong âm nhạc hiện đại chỉ có hai điệu thức, [^1] trưởng và thứ. Trong điệu thức trưởng, có mười lăm thang âm (scale), mỗi thang âm có một *âm chủ (tonic)* hoặc *âm gốc (key tone)* khác nhau, nhưng về khuôn mẫu thì chúng đều giống nhau, mỗi thang âm bao gồm hai quãng một cung, một quãng nửa cung, ba quãng một cung và một quãng nửa cung. Các quãng nửa cung luôn xảy ra giữa *Mi-Fa*, và *Si-Do*.
 
 Trong âm nhạc Gregorian có tám điệu thức, nhưng chúng ta sẽ coi chúng như tám thang âm, vì các thuật ngữ *điệu thức (modes)* và *thang âm (scale)*, liên quan đến bình ca, là giống nhau. Trong mỗi thang âm Gregorian nối tiếp, các quãng nửa cung xảy ra giữa các bậc khác nhau.
 
