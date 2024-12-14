@@ -2,6 +2,7 @@
 layout: post
 title: Câu chuyện về bình ca Gregorian
 subtitle: Sơ lược về lịch sử Bình ca Gregorian
+cover-img: /assets/img/cau-chuyen-gregorian.jpg
 tags: [books, history]
 author: Jean Kha
 ---
