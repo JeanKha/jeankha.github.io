@@ -22,6 +22,7 @@ Khóa Do có thể được đặt ở bất kỳ dòng nào trừ dòng đầu 
 ## Ký Âm
 
 Âm nhạc hiện đại được viết bằng các nốt tròn, khác nhau về giá trị thời gian, chẳng hạn như
+
 | Tên note | Hình note |
 | -------- | --------- |
 | Nốt tròn (whole note)<br>Nốt trắng (half note)<br>Nốt đen (quarter note)<br>Nốt móc đơn (eighth note)<br>Nốt móc kép (sixteenth note) | <img src="/assets/img/post-imgs/note.png" width="30"> |
