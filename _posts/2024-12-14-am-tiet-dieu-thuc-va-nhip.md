@@ -10,11 +10,11 @@ author: Jean Kha
 
 Guido biết rằng vì âm nhạc là một ngôn ngữ nên khả năng đọc nó sẽ mang lại niềm vui và sự thích thú hơn nhiều so với việc chỉ hát thuộc lòng, nên đã mong muốn cung cấp phương tiện để nhờ đó khả năng này có thể dễ dàng đạt được hơn. Một ngày nọ, trên khuông nhạc mới hoàn thành của mình, Guido đã viết giai điệu của bài thánh ca sau đây về Thánh Gioan Tẩy Giả, và khi mỗi dòng liên tiếp của bài thánh ca, ngoại trừ dòng cuối, bắt đầu cao hơn một bậc so với dòng trước đó, một ý tưởng mới đã xuất hiện với ngài. Ông lấy âm tiết đầu tiên của từ đầu tiên của mỗi dòng và áp dụng chúng vào các âm của thang âm, như sau:
 
-<center><img src="/asset/img/post-imgs/scale.png" width="200"></center>
+<center><img src="/assets/img/post-imgs/scale.png" width="200"></center>
 
 Đây là những âm tiết được sử dụng phổ biến ngày nay, ngoại trừ Ut và San, đã được đổi thành Do và Ti (Si). Nhờ những âm tiết này, người ta có thể dễ dàng học cách đọc nhạc hơn.
 
-<center><img src="/asset/img/post-imgs/Hymn to St John the Baptist.png" width=""></center>
+<center><img src="/assets/img/post-imgs/Hymn to St John the Baptist.png" width=""></center>
 
 |  |  |  |
 | ---------- | ---------- | ---------- |
@@ -38,7 +38,7 @@ Trong một trường canh (ô nhịp), nơi nhịp được cố định, mỗi
 
 **Ictus** *(Phách)*. Nhóm các nốt này được xác định bằng cái gọi là ictus. Ictus được biểu thị bằng một đường thẳng đứng ngắn bên dưới nốt tương ứng với nốt đầu tiên của nhịp trong âm nhạc hiện đại.  
 
-<center><img src="/asset/img/post-imgs/Ictus.png" width="200"></center>
+<center><img src="/assets/img/post-imgs/Ictus.png" width="200"></center>
 
 Trong âm nhạc hiện đại, nốt này sẽ được nhấn mạnh, trong khi trong âm nhạc Gregorian, phách không nhất thiết có nghĩa là mạnh (strong), mà chỉ là một sự nhấn mạnh vừa phải (emphasis slight). [^2] Trọng âm trong bình ca chủ yếu đề cập đến các từ. Mỗi từ tiếng Latinh có hai hoặc nhiều âm tiết đều có cái gọi là trọng âm chính ở âm tiết chính, chẳng hạn như *Cré-do in ú-num Dé-um*. Ictus và trọng âm của từ có thể hoặc không thể xảy ra ở cùng một nơi.
 
