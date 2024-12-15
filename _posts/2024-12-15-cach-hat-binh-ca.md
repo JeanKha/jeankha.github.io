@@ -17,21 +17,21 @@ author: Jean Kha
 
 2.  Thanh gạch ngang qua dòng thứ hai và thứ ba của khuông nhạc đánh dấu một thành phần hoặc một phần của một cụm từ, và thường được đứng trước một nốt dài hơn, cho phép tạm dừng khoảng một nhịp.
 
-<center><img src="/assets/img/post-imgs/breath2.png" width="200"></center>
+<center><img src="/assets/img/post-imgs/breath2.png" width="100"></center>
 
 3.  Thanh đầy đủ đánh dấu một câu và vì điều này cũng được đứng trước một nốt dài hơn nên có thể có một khoảng dừng dài hơn một chút.
 
-<center><img src="/assets/img/post-imgs/breath3.png" width="200"></center>
+<center><img src="/assets/img/post-imgs/breath3.png" width="100"></center>
 
 4.  Thanh kép cho biết sự kết thúc của một đoạn và cho phép lấy hơi sâu.
 
-<center><img src="/assets/img/post-imgs/breath4.png" width="200"></center>
+<center><img src="/assets/img/post-imgs/breath4.png" width="100"></center>
 
 Chúng ta có thể so sánh những dấu hơi này với dấu chấm câu trong ngôn ngữ. Cả hai đều nhằm mang lại ý nghĩa biểu cảm hơn cho nội dung. Bạn biết các dấu chấm câu cần thiết như thế nào và đoạn văn sẽ nhàm chán và vô nghĩa như thế nào nếu không có chúng. Việc thở đúng cách cũng quan trọng không kém. Bạn đã biết rằng việc lấy hơi ở giữa một từ hoặc cụm từ là sai. Do đó, hãy cẩn thận khi lấy hơi đúng chỗ trong khi hát bình ca và không ở bất kỳ chỗ nào khác.
 
 **Guide** *(Chỉ dẫn)*. Ở cuối mỗi dòng nhạc sẽ có một nốt nhỏ để chỉ cao độ của nốt đầu tiên trong dòng nhạc kế tiếp.
 
-<center><img src="/assets/img/post-imgs/guide.png" width="200"></center>
+<center><img src="/assets/img/post-imgs/guide.png" width="100"></center>
 
 ## Các loại bình điệu
 
