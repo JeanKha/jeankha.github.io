@@ -10,7 +10,7 @@ author: Jean Kha
 
 Guido biết rằng vì âm nhạc là một ngôn ngữ nên khả năng đọc nó sẽ mang lại niềm vui và sự thích thú hơn nhiều so với việc chỉ hát thuộc lòng, nên đã mong muốn cung cấp phương tiện để nhờ đó khả năng này có thể dễ dàng đạt được hơn. Một ngày nọ, trên khuông nhạc mới hoàn thành của mình, Guido đã viết giai điệu của bài thánh ca sau đây về Thánh Gioan Tẩy Giả, và khi mỗi dòng liên tiếp của bài thánh ca, ngoại trừ dòng cuối, bắt đầu cao hơn một bậc so với dòng trước đó, một ý tưởng mới đã xuất hiện với ngài. Ông lấy âm tiết đầu tiên của từ đầu tiên của mỗi dòng và áp dụng chúng vào các âm của thang âm, như sau:
 
-<center><img src="/assets/img/post-imgs/scale.png" width=""></center>
+<center><img src="/assets/img/post-imgs/scale.png" width="300"></center>
 
 Đây là những âm tiết được sử dụng phổ biến ngày nay, ngoại trừ Ut và San, đã được đổi thành Do và Ti (Si). Nhờ những âm tiết này, người ta có thể dễ dàng học cách đọc nhạc hơn.
 
