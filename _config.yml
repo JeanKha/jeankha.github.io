@@ -21,9 +21,10 @@ author: Jean Kha
 
 navbar-links:
   Gregorian: "aboutgregorian"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resources:
+    - Editor: "https://www.sourceandsummit.com/editor/alpha/"
+    - The Gregorio project: "https://gregorio-project.github.io/"
+    - GregoWiki: "https://gregoriochant.org/"
 #  Author's home: "https://deanattali.com"
 
 ################
