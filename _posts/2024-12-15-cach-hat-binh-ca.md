@@ -13,7 +13,7 @@ author: Jean Kha
 
 1.  Thanh dọc ngắn ngang qua dòng thứ tư của khuông nhạc cho phép ta lấy hơi nhanh, nếu cần.
 
-<center><img src="/assets/img/post-imgs/breath1.png" width="200"></center>
+<center><img src="/assets/img/post-imgs/breath1.png" width="100"></center>
 
 2.  Thanh gạch ngang qua dòng thứ hai và thứ ba của khuông nhạc đánh dấu một thành phần hoặc một phần của một cụm từ, và thường được đứng trước một nốt dài hơn, cho phép tạm dừng khoảng một nhịp.
 
