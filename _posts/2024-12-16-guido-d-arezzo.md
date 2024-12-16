@@ -7,7 +7,7 @@ tags: [books, history]
 mathjax: true
 author: Tí Linh
 ---
-![Guido D'arezzo](assets/img/post-imgs/guido1.jpg)
+![Guido D'arezzo](/assets/img/post-imgs/guido1.jpg)
 
 Sự phát triển của việc thực hành âm nhạc vào thời Trung Cổ là nhờ thành công của **Guido d’Arezzo (992-1033)**, một đan sĩ Dòng Biển Đức người Ý, đã cách mạng hóa việc học nhạc. Còn được gọi là “cha đẻ của âm nhạc”, Guido d’Arezzo đặc biệt nổi tiếng vì là nguồn gốc của chuỗi nốt nổi tiếng **ut-re-mi-fa-sol-la-si**.
 
@@ -30,7 +30,7 @@ Bài Thánh thi tiếng Latinh này, do Paul Diacre viết, có một điểm đ
 | -| -|
 | **Ut** queant laxis<br>**Re**sonare fibris<br>**Mi**ra gestorum<br>**Fa**mili tuorum<br>**Sol**ve pollutir<br>**La**bii reatum<br>**San**cte Ioannes. | *“Để những dây đàn thanh bình<br>trên môi miệng chúng con<br>có thể vang lên những kỳ công<br>trong hành động của ngài,<br>xin cất bỏ tội lỗi<br>của kẻ tôi tớ ô uế của ngài,<br>ôi lạy Thánh Gioan”.* |
 
-![Guido's Scale](assets/img/post-imgs/guido2.jpg)
+![Guido's Scale](/assets/img/post-imgs/guido2.jpg)
 
 ### Một ảnh hưởng đặc biệt
 
@@ -38,7 +38,7 @@ Liên quan đến nốt Si, ban đầu không có, nó có được nhờ sự r
 
 Rất nhanh chóng được phổ biến cho toàn bộ thế giới âm nhạc tây Phương, phương pháp của Guido d’Arezzo đã cách mạng hóa việc học và thực hành âm nhạc. Thậm chí ngày nay, ông vẫn được coi là một trong những nhà phát minh ra các nốt nhạc.
 
-![Guidonian hand](assets/img/post-imgs/guido3.jpg)
+![Guidonian hand](/assets/img/post-imgs/guido3.jpg)
 <a href="https://www.missionsanluis.org/media/1968/guidonian-hand-information.pdf" target="_blank">*Bàn tay Guidonian*</a>
 
 Một số nước không sử dụng cách đặt tên mới này và vẫn giữ một hệ thống cũ gọi tên các nốt nhạc bằng các chữ cái đầu tiên của bảng chữ cái, kế thừa từ Hy Lạp cổ đại : A (La), B (Si), C (Do), D (Ré), E (Mi), F (Fa) và G (Sol). Phương pháp này kéo dài lâu hơn nơi các nước Anglo-Saxon và Germanic.
