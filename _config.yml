@@ -22,9 +22,9 @@ author: Jean Kha
 navbar-links:
   Gregorian: "aboutgregorian"
   Resources:
-    - Editor: "https://www.sourceandsummit.com/editor/alpha/"{:target="_blank"}
-    - The Gregorio project: "https://gregorio-project.github.io/"{:target="_blank"}
-    - GregoWiki: "https://gregoriochant.org/"{:target="_blank"}
+    - Editor: "https://www.sourceandsummit.com/editor/alpha/"
+    - The Gregorio project: "https://gregorio-project.github.io/"
+    - GregoWiki: "https://gregoriochant.org/"
 #  Author's home: "https://deanattali.com"
 
 ################
